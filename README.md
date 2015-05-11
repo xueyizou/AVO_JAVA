@@ -8,6 +8,8 @@ For the purpose of using the Velocity Obstacles approach and its variations in m
 
 Apart from all the functions of RVO, HRVO, and ORCA libraries, the AVO library make it easy to set algorithm parameters and to select whichever  VO variations you want to use. Now this AVO library can be found on https://github.com/superxueyizou/AVO .
 
+To use the code, I suggest that you import the downloaded code into Eclipse. You also need to download the dependent libraries from https://drive.google.com/file/d/0B_7k4FZyhA-1ZzByOE9GMXZFdjA/view?usp=sharing, and add them to the Eclipse project.
+
 The parameters setting are as follows:
 
 set "alpha" to [0,1.0), RVO;
